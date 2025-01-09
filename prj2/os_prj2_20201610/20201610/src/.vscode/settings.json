@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "memory": "c",
+        "syscall.h": "c",
+        "debug.h": "c"
+    }
+}
